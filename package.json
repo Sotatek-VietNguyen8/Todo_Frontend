@@ -1,10 +1,10 @@
 {
-  "name": "vite-trello-web-base-project",
+  "name": "vite-Todo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "author": "TrungQuanDev - Một Lập Trình Viên",
-  "description": "https://youtube.com/@trungquandev",
+  "author": "Ducviet",
+  "description": "",
   "engines": {
     "node": ">=18.x"
   },
@@ -19,7 +19,7 @@
     "@emotion/styled": "^11.14.0",
     "@mui/icons-material": "^6.3.0",
     "@mui/material": "^6.3.0",
-    "axios": "^1.5.1",
+    "axios": "^1.7.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

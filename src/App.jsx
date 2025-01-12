@@ -1,20 +1,10 @@
-
-import Button from '@mui/material/Button'
-import DeleteIcon from '@mui/icons-material/Delete';
-
+import TaskTodo from '~/pages/Frame/IdTask'
 
 
 function App() {
-
-
   return (
     <>
-    <div>TODO</div>
-     <Button variant="contained">ADD</Button>
-
-     <br />
-    <DeleteIcon/>
-
+    <TaskTodo/>
     </>
   )
 }
